@@ -20,6 +20,9 @@ Hier habe ich aus spaß fizzbuzz in verschiedenen Arten erstellt und dass in eig
 ### Git mv
 ![Git mv](Screenshots/mv.png)
 
+### Git rm
+![Git mv](Screenshots/rm.png)
+
 ## 4. Experimentieren Sie mit Zeitreisen!
 ![Zeitreise](Screenshots/zeitreise.png)
 
