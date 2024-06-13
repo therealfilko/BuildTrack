@@ -50,4 +50,4 @@ Diese Branches enthalten ähnliche, aber unterschiedliche Implementierungen von 
 ![Git Merge](Screenshots/push_branch.png)
 
 ## 6. Erstellen Sie in GitHub einen Pull-Request bezugnehmend auf https://github.com/edlich/education! Bitte referenzieren Sie auf den Pull-Request mit Link oder der Pull-Request Nummer! Kryptische GitHub Namen kann ich kaum zuordnen. Die Aufgabenteile vor dem Pull-Request bitte nicht in den Pull-Request einbauen, sondern extra abgeben!
-Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+Der Pull-Request wurde erstellt und kann [hier](https://github.com/edlich/education/pull/503) eingesehen werden.
