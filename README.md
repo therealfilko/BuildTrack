@@ -1,3 +1,5 @@
+# Git Übung und FizzBuzz Implementation von Filip Nikolic
+
 ## 1. Erstellen Sie sich ein Repository in Github oder GitLab.
 Um die Versionskontrolle für dieses Projekt zu demonstrieren, habe ich ein öffentliches Repository 
 auf GitHub erstellt. Dieses Repository enthält die Implementierung von FizzBuzz in Go sowie die 
