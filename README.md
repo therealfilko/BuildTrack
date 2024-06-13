@@ -1,7 +1,7 @@
-# 1. Erstellen Sie sich ein Repository in Github oder GitLab.
+## 1. Erstellen Sie sich ein Repository in Github oder GitLab.
 Wie Sie sehen habe ich ein Github Repo erstellt, welches public ist. 
 
-# 2. Pushen Sie ein eigenes Projekt von Ihnen hoch (z.B. das CCD-Projekt) oder erstellen Sie ein neues Projekt!
+## 2. Pushen Sie ein eigenes Projekt von Ihnen hoch (z.B. das CCD-Projekt) oder erstellen Sie ein neues Projekt!
 Hier habe ich aus spaß fizzbuzz in verschiedenen Arten erstellt und dass in eigene Branches.
 
 # 3. Wenden Sie alle in den Unterlagen genannten relevanten Methoden beweisbar an: (das Github Repo ist Beweis) push, pull, add, commit, diff, status, rm/mv, etc.
