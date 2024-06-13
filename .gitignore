@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Go
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Direktories for Go tools
+vendor/
+Godeps/
+dep/
+
+# IDEs und Editoren
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log Dateien
+*.log
+
+# Temporary Dateien
+tmp/
+temp/
+
+# Build Dateien
+build/
+
+# Coverage Dateien
+coverage.out
+
